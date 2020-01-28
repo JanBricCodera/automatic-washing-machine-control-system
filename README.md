@@ -32,8 +32,14 @@ The purpose of the motor is to move the clothes around in a well-coordinated spi
 
 
 Spinning process of a motor in one instance of a 360 degree loop:
-Bit presentation of the counter-clockwise spin.
+# Bit presentation of the counter-clockwise spin.
 There are four bits namely, north, south, east and west. West would be the most significant bit. North would be the least.
 
-![alt text](https://i.ibb.co/ftHX9hk/1.png "image to fork button")
+![alt text](https://i.ibb.co/ftHX9hk/1.png "Bit presentation of the counter-clockwise spin 1")
 
+![alt text](https://i.ibb.co/vjJh4Fd/2.png "Bit presentation of the counter-clockwise spin 2")
+
+# Bit presentation of the clockwise spin.
+
+![alt text](https://i.ibb.co/ws5stK7/3.png "Bit presentation of the clockwise spin 1")
+![alt text](https://i.ibb.co/JvtZtCw/4.png "Bit presentation of the clockwise spin 2")
