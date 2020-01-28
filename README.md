@@ -34,23 +34,6 @@ The purpose of the motor is to move the clothes around in a well-coordinated spi
 Spinning process of a motor in one instance of a 360 degree loop:
 Bit presentation of the counter-clockwise spin.
 There are four bits namely, north, south, east and west. West would be the most significant bit. North would be the least.
-*At initial position,	
-Binary value=0 0 0 1
-Decimal value=1
 
-*Next,
-Binary value=1 0 0 0
-Decimal value=8
-
-*Next,
-Binary value=0 1 0 0
-Decimal value=4
-
-*Next,
-Binary value=0 0 1 0
-Decimal value=2
-
-*Then back to starting position.
-Binary value=0 0 0 1
-Decimal value=1
+![alt text](https://ibb.co/nfjwBH7 "image to fork button")
 
