@@ -35,5 +35,5 @@ Spinning process of a motor in one instance of a 360 degree loop:
 Bit presentation of the counter-clockwise spin.
 There are four bits namely, north, south, east and west. West would be the most significant bit. North would be the least.
 
-![alt text](https://ibb.co/nfjwBH7 "image to fork button")
+![alt text](https://i.ibb.co/1YN7SJ6/Screen-Shot-2019-07-01-at-2-02-40-AM.png "image to fork button")
 
