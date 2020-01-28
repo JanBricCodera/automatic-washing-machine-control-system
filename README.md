@@ -1,4 +1,4 @@
-# A computation model employing the concept of Finite state machine that can be implemented using hardware or software and written using Verilog(C)
+# A computational model employing the concept of Finite state machine that can be implemented using hardware or software and written using Verilog(C)
 
 
 ## MAIN
