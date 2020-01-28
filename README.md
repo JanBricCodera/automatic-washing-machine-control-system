@@ -42,4 +42,5 @@ There are four bits namely, north, south, east and west. West would be the most 
 # Bit presentation of the clockwise spin.
 
 ![alt text](https://i.ibb.co/ws5stK7/3.png "Bit presentation of the clockwise spin 1")
+
 ![alt text](https://i.ibb.co/JvtZtCw/4.png "Bit presentation of the clockwise spin 2")
