@@ -44,3 +44,8 @@ There are four bits namely, north, south, east and west. West would be the most 
 ![alt text](https://i.ibb.co/ws5stK7/3.png "Bit presentation of the clockwise spin 1")
 
 ![alt text](https://i.ibb.co/JvtZtCw/4.png "Bit presentation of the clockwise spin 2")
+
+The timer commences when the washing mode starts and counts all the way up to the end of the rinsing stage. Washing mode is programmed to be set running for 10 minutes or 600 seconds and another 10 minutes for the rinsing mode as well. Consequently, one cycle of washing and rinsing would last for 20 minutes or 1200 seconds.
+
+# Block Diagram.
+![alt text](https://i.ibb.co/fHgTbNN/block-diagram.png "Block diagram")
